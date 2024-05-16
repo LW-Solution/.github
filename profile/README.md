@@ -1,7 +1,7 @@
 
-## Documentação: [Clique aqui](https://github.com/Nine-Tech/nine-tech-documentation)
-## Repositório Frontend: [Clique aqui](https://github.com/Nine-Tech/nine-tech-front)
-## Repositório Backend: [Clique aqui](https://github.com/Nine-Tech/nine-tech-back)
+## Documentação: [Clique aqui](https://github.com/LW-Solution/Documentation.git)
+## Repositório Frontend: [Clique aqui](https://github.com/LW-Solution/FrontEnd)
+## Repositório Backend: [Clique aqui](https://github.com/LW-Solution/BackEnd)
 
 
 
